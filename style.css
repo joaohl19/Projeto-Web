@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.caixa_1{
+    padding: 20px;
+    text-align: center;
+    background-color:  rgb(200, 226, 246);
+    background-size: 100%;
+}
+
+.imagem_1{
+    filter: saturate(140%)
+}
+
+.caixa_2{
+
+    background-color:white;
+    height: 20em;
+    position: relative;
+}
+
+.caixa_3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(200, 226, 246);
+    text-align: center;
+    padding: 25px;
+    width: fit-content;
+    border-radius: 20px;
+    font-size: x-large;
+
+}
+.caixa_3-1{
+    float: left;
+    background-color: rgb(200, 226, 246);
+    text-align: left;
+    margin-top: 330px;
+    padding: 25px;
+    width: fit-content;
+    margin-left: 50px;
+    margin-right: 0px;
+    border-radius: 20px;
+    font-size: x-large;
+}
+.caixa_4{
+    float: left;
+    background-color: rgb(200, 226, 246);
+    text-align: left;
+    margin-top: 70px;
+    padding: 25px;
+    margin-left: 50px;
+    width: fit-content;
+    border-radius: 20px;
+    font-size: x-large;
+
+}
+.caixa_5{
+    float: left;
+    background-color: rgb(200, 226, 246);
+    width: fit-content;
+    padding: 20px;
+    margin-left: 50px;
+    margin-top: 70px;
+    border-radius: 20px;
+}
+
+.imagem_5{
+    filter: saturate(100%)
+}
+
+.caixa_6{
+    float: left;
+    background-color: rgb(200, 226, 246);
+    width: fit-content;
+    padding: 20px;
+    margin-top: 70px;
+    margin-left: 50px;
+    border-radius: 20px;
+}
+.imagem_6{
+    filter: saturate(180%)
+}
+.caixa_7{
+    float: left;
+    background-color: rgb(200, 226, 246);
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 100px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    width: fit-content;
+    border-radius: 20px;
+    font-size: x-large;
+}
+.caixa_7-1{
+    float: right;
+    padding-left: 12px;
+}
+
+
+.caixa_8{
+    float: left;
+    background-color: rgb(200, 226, 246);
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 100px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    width: fit-content;
+    border-radius: 20px;
+    font-size: x-large;
+
+}
+.caixa_8-1{
+    float: right;
+    padding-left: 12px;
+}
+
+
+
